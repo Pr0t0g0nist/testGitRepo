@@ -1,5 +1,7 @@
 test data in a file
 this change requires merging
 third line
+new line in newfeature1 branch
 
 another change
+I want to change staged file
