@@ -1,3 +1,5 @@
 test data in a file
 second line
 third line
+
+new line in newfeature1 branch
