@@ -3,3 +3,5 @@ second line
 third line
 
 new line in newfeature1 branch
+
+I want to change staged file
