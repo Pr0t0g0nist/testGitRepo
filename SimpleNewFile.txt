@@ -1,6 +1,5 @@
 test data in a file
-second line
-third line
+this time file should be merged
 
 new line in newfeature1 branch
 
