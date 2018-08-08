@@ -1,3 +1,3 @@
 test data in a file
-second line
+this change requires merging
 third line
